@@ -19,4 +19,4 @@ async def biscuit(ctx):
     await ctx.send(str(choix))
     await ctx.send("🥠")
        
-bot.run("Nzc4MzIxNzYyMDQ3MjMwMDIz.X7QSoA.K_IaFr8fsXq-VFpZSv_9NUF2Vi4")
+bot.run("Nzc4MzIxNzYyMDQ3MjMwMDIz.X7QSoA.YnWzhF35BxEikA_LKkGUj4nsnOE")
