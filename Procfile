@@ -1,1 +1,1 @@
-worker: rake jobs:work
+worker: python bot.py
